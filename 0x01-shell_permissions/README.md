@@ -22,3 +22,4 @@
                       the group owner and all other users. Regular files should not be change
 12. More directories - Create a script that creates a directory called my_dir with permissions 751 in the working directory
 14. Owner and group - Write a script that changes the owner to vincent and the group owner to staff for all the files and directories                      in the working directory
+15. Symbolic links  - Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
