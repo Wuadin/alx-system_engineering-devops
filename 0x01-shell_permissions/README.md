@@ -19,4 +19,6 @@
                                          The file hello will be in the working directory
                                          The file olleh will be in the working directory
 11. Directories     - Create a script that adds execute permission to all subdirectories of the current directory for the owner,
-                      the group owner and all other users. Regular files should not be changed.
+                      the group owner and all other users. Regular files should not be change
+12. More directories - Create a script that creates a directory called my_dir with permissions 751 in the working directory 
+
