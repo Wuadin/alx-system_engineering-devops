@@ -12,3 +12,4 @@
 9. Duplicate last line - Write a script that duplicates the last line of the file iacta
 10. No more javascript - Write a script that deletes all the regular files with a .js extension
 11. Don't just count your directories, make your directories count
+12. What’s new - Create a script that displays the 10 newest files in the current directory
