@@ -1,4 +1,4 @@
-                       **0x02. Shell, I/O Redirections and filters**
+                       **0x02. Shell, I/O Redirections and filters
 -------------------------------------------------------------------------------------------
 0. Hello World() - Write a script that prints “Hello, World”, followed by a new line to the standard output
 1. Confused smiley - Write a script that displays a confused smiley "(Ôo)
@@ -10,4 +10,5 @@
 7. It is a good file that cuts iron without making a noise
 8. Save current state of directory
 9. Duplicate last line - Write a script that duplicates the last line of the file iacta
+10. No more javascript - Write a script that deletes all the regular files with a .js extension
 
